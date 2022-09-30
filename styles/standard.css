@@ -1,14 +1,14 @@
 body {
     margin: 15px;
     padding: 12px;
-    background-color: rgb(26, 24, 38);
-    color: rgb(201, 203, 255);
+    background-color: #fbf1c7;
+    color: #3c3836;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
     text-decoration: none;
-    color: rgb(152, 139, 162);
+    color: #689d6a;
 }
 
 ul {
@@ -22,9 +22,9 @@ li {
 
 code {
     padding: 2px;
-    background-color: rgb(26, 24, 38);
+    background-color: #427b5857;
     border-radius: 2px;
-    color: rgb(152, 139, 162);
+    color: #689d6a;
 }
 
 .indent-ul {
@@ -38,20 +38,20 @@ code {
 .intro {
     margin: 0;
     margin-bottom: 10px;
-    color: rgb(195, 186, 198);
+    color: #427b58;
 }
 
 .divider {
     margin-top: 10px;
     padding: 30px;
-    background-color: rgb(48, 45, 65);
+    background-color: #ebdbb2;
 }
 
 .altcode {
     font-family: monospace;
     font-size: 15px;
     border-radius: 2px;
-    color: rgb(110, 108, 126);
+    color: #427b58;
 }
 
 .footer {
