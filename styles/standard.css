@@ -1,14 +1,15 @@
 body {
+    /*#e0f0ea #95adbe #574f7d #503a65 #3c2a4d*/
     margin: 15px;
     padding: 12px;
-    background-color: #fbf1c7;
+    background-color: #e0f0ea;
     color: #3c3836;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
     text-decoration: none;
-    color: #689d6a;
+    color: #503a65;
 }
 
 ul {
@@ -24,7 +25,7 @@ code {
     padding: 2px;
     background-color: #427b5857;
     border-radius: 2px;
-    color: #689d6a;
+    color: #503a65;
 }
 
 .indent-ul {
@@ -38,20 +39,20 @@ code {
 .intro {
     margin: 0;
     margin-bottom: 10px;
-    color: #427b58;
+    color: #3c2a4d;
 }
 
 .divider {
     margin-top: 10px;
     padding: 30px;
-    background-color: #ebdbb2;
+    background-color: #95adbe;
 }
 
 .altcode {
     font-family: monospace;
     font-size: 15px;
     border-radius: 2px;
-    color: #427b58;
+    color: #3c2a4d;
 }
 
 .footer {
